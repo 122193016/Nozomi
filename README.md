@@ -1,3 +1,2 @@
 # Nozomi
-Tojo
 Tojo Nozomi
