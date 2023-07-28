@@ -1,2 +1,2 @@
-# Nozomi
-Tojo Nozomi
+# LoveLive! School idol project
+
